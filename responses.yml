@@ -1,0 +1,12 @@
+responses:
+  utter_ask_weather:
+    - text: "Fetching the latest weather forecast for your location..."
+  
+  utter_ask_pest_risk:
+    - text: "Analyzing pest outbreak risk based on recent weather data..."
+  
+  utter_ask_crop_prices:
+    - text: "Getting real-time market prices for your crops..."
+  
+  utter_ask_farming_tips:
+    - text: "Providing expert farming guidance..."

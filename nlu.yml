@@ -1,0 +1,26 @@
+version: "3.1"
+
+nlu:
+- intent: ask_weather
+  examples: |
+    - What is the weather today?
+    - Tell me the weather forecast.
+    - Will it rain tomorrow?
+
+- intent: ask_pest_risk
+  examples: |
+    - Are there any pest infestations in my area?
+    - How do I prevent locust attacks?
+    - What are the chances of a pest outbreak?
+
+- intent: ask_crop_prices
+  examples: |
+    - What is the current price of wheat?
+    - How much is rice selling for in the market?
+    - Tell me the latest price for potatoes.
+
+- intent: ask_farming_tips
+  examples: |
+    - What is the best way to grow tomatoes?
+    - How can I improve soil fertility?
+    - Give me tips for organic farming.
